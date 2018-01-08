@@ -3,3 +3,25 @@
 .lms_show {
   min-height: 50px;
 }
+
+
+.amzflow {
+  padding: 20px;
+  background: #F0F0F0;
+}
+
+.amzflow_bottom {
+  padding: 1px;
+}
+
+.influencer_banner {
+  background-position: 50% 250%;
+}
+
+.messaging_break {
+  padding: 10px 0px 5px 0px;
+}
+
+.hero_text{
+  color: #FFFFFF;
+}
